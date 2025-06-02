@@ -21,7 +21,7 @@ Tải lại trọng số của mô hình đề xuất để thử nghiệm trên
 
 Mỗi thư mục tương ứng với một cấu hình thử nghiệm gồm tiền xử lý, mô hình phân lớp, và hậu xử lý cụ thể trên một tập dữ liệu nhất định:
 
-| Thư mục           | Tiền xử lý     | Mô hình                | Hậu xử lý                 | Tập dữ liệu |
+| File              | Tiền xử lý     | Mô hình                | Hậu xử lý                 | Tập dữ liệu |
 |-------------------|----------------|------------------------|---------------------------|-------------|
 | `bayer_907/`      | Bayer          | Mô hình đề xuất        | Morphology Operations     | 907         |
 | `bayer_2750/`     | Bayer          | Mô hình đề xuất        | Morphology Operations     | 2750        |
