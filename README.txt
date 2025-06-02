@@ -1,5 +1,5 @@
-folder Dataset_907: Chứ cái mô hình được thử nghiệm trên tập 907
-folder Dataset_2750: Chứ cái mô hình được thử nghiệm trên tập 2750
+folder Dataset_907: Chứa các mô hình được thử nghiệm trên tập 907
+folder Dataset_2750: Chứa các mô hình được thử nghiệm trên tập 2750
 trong đó, load_weights_gray_2750 : Load lại weight của mô hình đề xuất để thử nghiệm trên 4 ảnh.
 
 bayer_907: Bayer + mô hình đề xuất + Morphology operations (tập dữ liệu 907)
