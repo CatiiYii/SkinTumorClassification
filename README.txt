@@ -12,9 +12,6 @@ Chứa các mô hình và kết quả huấn luyện, đánh giá trên tập d�
 ### 🔹 Dataset_2750/
 Chứa các mô hình và kết quả huấn luyện, đánh giá trên tập dữ liệu gồm **2750 ảnh**.
 
-### 🔹 load_weights_gray_2750/
-Tải lại trọng số của mô hình đề xuất để thử nghiệm trên 4 ảnh từ tập dữ liệu 2750.
-
 ---
 
 ## 📂 Mô tả Các Thử Nghiệm
