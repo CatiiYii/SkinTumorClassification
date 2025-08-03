@@ -8,7 +8,7 @@ Dự án này tập trung phát triển và thử nghiệm các kỹ thuật ph�
 Chứa các mô hình, mã nguồn huấn luyện, kết quả đánh giá được thực hiện trên tập dữ liệu 907.
 
 🔹 Dataset_2750/
-Chứa các mô hình, mã nguồn huấn luyện, kết quả đánh giá tương ứng trên tập dữ liệu gồm 2750.
+Chứa các mô hình, mã nguồn huấn luyện, kết quả đánh giá tương ứng trên tập dữ liệu 2750.
 
 == MÔ TẢ CÁC THỬ NGHIỆM ==
 
